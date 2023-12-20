@@ -33,10 +33,14 @@
 [xiaojia21190/viem-evm-_inscription_-_mint_](https://github.com/xiaojia21190/viem-evm-inscription-mint)
 ### 兼容EVM链的铭文自动化Mint脚本
 [jacky915818/evm-_inscription_-_mint_](https://github.com/jacky915818/evm-inscription-mint)
+### coss
+[coss](https://github.com/qzz0518/coss)
 ### The automatic casting program of the first inscription EOSS under the EOS EVM chain
 [bangban6/eos_evm_eoss-_mint_-](https://github.com/bangban6/eos_evm_eoss-mint-)
 ### celestia Batch Query
 [celestiaBatchQuery](https://github.com/tcitds1/celestiaBatchQuery)
+### celestia铭文mint cias
+[cias](https://github.com/zefzhou/cias)
 ## 说明
 本项目会及时更新web3 开源项目，如有遗漏，请提 PR
 ## 注意
