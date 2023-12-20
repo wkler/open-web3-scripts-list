@@ -1,6 +1,8 @@
 # OpenSource实用web3脚本 
 -- collect by Web3开源共建社区
 ## 铭文相关
+### 挖矿atomicals 上的代币-官方工具
+[atomicals/_atomicals-js_](https://github.com/atomicals/atomicals-js)
 ### EVM全链铭文批量_mint_脚本
 [zyxtoworld/batch_Mint_EvmInscriptions](https://github.com/zyxtoworld/batchMintEvmInscriptions)
 ### batchMintCias
@@ -41,6 +43,8 @@
 [celestiaBatchQuery](https://github.com/tcitds1/celestiaBatchQuery)
 ### celestia铭文mint cias
 [cias](https://github.com/zefzhou/cias)
+### Python JSON-RPC batch mint
+[BatchTx](https://github.com/cradle0fFilth/BatchTx)
 ## 说明
 本项目会及时更新web3 开源项目，如有遗漏，请提 PR
 ## 注意
