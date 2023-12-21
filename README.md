@@ -3,7 +3,7 @@
 ## 铭文相关
 ### 挖矿atomicals 上的代币工具-官方版本
 [atomicals/_atomicals-js_](https://github.com/atomicals/atomicals-js)
-### 挖矿atomicals 上的代币工具-童大多线程版
+### 挖矿atomicals 上的代币工具-童大多进程版
 [atomicals/_atomicals-js-boost_](https://github.com/wkler/atomicals-js-boost)
 ### EVM全链铭文批量_mint_脚本
 [zyxtoworld/batch_Mint_EvmInscriptions](https://github.com/zyxtoworld/batchMintEvmInscriptions)
