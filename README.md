@@ -52,6 +52,10 @@
 ### decode_bitcoinRawTx
 [decode_bitcoinRawTx](https://github.com/cradle0fFilth/decode_bitcoinRawTx)
 
+## 工具类脚本
+### dc机器人(py版本)
+[dc机器人 （聊天、领水等）](https://github.com/l333308/discord_bot)
+
 ## 说明
 本项目会及时更新web3 开源项目，如有遗漏，请提 PR
 ## 注意
