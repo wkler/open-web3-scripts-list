@@ -49,6 +49,8 @@
 [BatchTx](https://github.com/cradle0fFilth/BatchTx)
 ### Shell Script for checking atomicals NFT available
 [MintAtomicalsNFT-check NFT available](https://github.com/cradle0fFilth/MintAtomicalsNFT)
+### decode_bitcoinRawTx
+[decode_bitcoinRawTx](https://github.com/cradle0fFilth/decode_bitcoinRawTx)
 
 ## 说明
 本项目会及时更新web3 开源项目，如有遗漏，请提 PR
