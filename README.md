@@ -47,6 +47,11 @@
 [cias](https://github.com/zefzhou/cias)
 ### Python JSON-RPC batch mint
 [BatchTx](https://github.com/cradle0fFilth/BatchTx)
+
+## 工具类脚本
+### dc机器人(py版本)
+[dc机器人 （聊天、领水等）](https://github.com/l333308/discord_bot)
+
 ## 说明
 本项目会及时更新web3 开源项目，如有遗漏，请提 PR
 ## 注意
