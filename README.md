@@ -3,15 +3,15 @@
 ## 铭文相关
 ### 挖矿atomicals 上的代币工具-官方版本
 [atomicals/_atomicals-js_](https://github.com/atomicals/atomicals-js)
-### 挖矿atomicals 上的代币工具-童大多进程版
+### 挖矿atomicals 上的代币工具-童大多进程版    社区贡献者：0xRedPill 童大托
 [atomicals/_atomicals-js-boost_](https://github.com/wkler/atomicals-js-boost)
 ### EVM全链铭文批量_mint_脚本
 [zyxtoworld/batch_Mint_EvmInscriptions](https://github.com/zyxtoworld/batchMintEvmInscriptions)
 ### batchMintCias
 [zyxtoworld/batchMintCias](https://github.com/zyxtoworld/batchMintCias)
-### pow-erc20
+### pow-erc20    社区贡献者：BOX
 [pow-erc20](https://github.com/nishuzumi/pow-erc20)
-### Boost-POW-ERC20-Miner
+### Boost-POW-ERC20-Miner    社区贡献者：0xRedPill
 [Boost-POW-ERC20-Miner](https://github.com/wkler/Boost-POW-ERC20-Miner)
 ### 兼容 evm 的铭文 _Mint_ 工具
 [sfter/evm-_inscription_-_mint_](https://github.com/sfter/evm-inscription-mint)
@@ -43,21 +43,21 @@
 [bangban6/eos_evm_eoss-_mint_-](https://github.com/bangban6/eos_evm_eoss-mint-)
 ### celestia Batch Query
 [celestiaBatchQuery](https://github.com/tcitds1/celestiaBatchQuery)
-### celestia铭文mint cias
+### celestia铭文mint cias    社区贡献者：zefzhou44
 [cias](https://github.com/zefzhou/cias)
-### Python JSON-RPC batch mint
+### Python JSON-RPC batch mint    社区贡献者：null
 [BatchTx](https://github.com/cradle0fFilth/BatchTx)
-### Shell Script for checking atomicals NFT available
-[MintAtomicalsNFT-check NFT available](https://github.com/cradle0fFilth/MintAtomicalsNFT)
-### decode_bitcoinRawTx
+### Shell Script for checking atomicals NFT available    社区贡献者：null
+[Atomicals NFT for checking NFT available](https://github.com/cradle0fFilth/MintAtomicalsNFT)
+### 解码比特币原始交易数据    社区贡献者：null
 [decode_bitcoinRawTx](https://github.com/cradle0fFilth/decode_bitcoinRawTx)
 
 ## 工具类脚本
-### dc机器人(py版本)
+### dc机器人(py版本) 社区贡献者：SevAn°
 [dc机器人 （聊天、领水等）](https://github.com/l333308/discord_bot)
 
 ## 说明
-本项目会及时更新web3 开源项目，如有遗漏，请提 PR
+本项目会及时更新web3 开源项目，如有遗漏，请提PR。
 ## 注意
 使用以上脚本需要自己承担风险（Take Your Own Risk），如果造成资产损失与开源贡献者和本人无关（DYOR）。
 ## 贡献
