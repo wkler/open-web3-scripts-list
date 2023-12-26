@@ -47,6 +47,9 @@
 [cias](https://github.com/zefzhou/cias)
 ### Python JSON-RPC batch mint
 [BatchTx](https://github.com/cradle0fFilth/BatchTx)
+### Shell Script for checking atomicals NFT available
+[MintAtomicalsNFT-check NFT available](https://github.com/cradle0fFilth/MintAtomicalsNFT)
+
 ## 说明
 本项目会及时更新web3 开源项目，如有遗漏，请提 PR
 ## 注意
