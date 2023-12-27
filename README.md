@@ -28,7 +28,7 @@
 | Python JSON-RPC batch mint | [BatchTx](https://github.com/cradle0fFilth/BatchTx) | null |
 | Shell Script for checking atomicals NFT available | [Atomicals NFT for checking NFT available](https://github.com/cradle0fFilth/MintAtomicalsNFT) | null |
 | 解码比特币原始交易数据 | [decode_bitcoinRawTx](https://github.com/cradle0fFilth/decode_bitcoinRawTx) | null |
-
+| getgrass 挂机程序 代理功能 替代插件 | [getgrass-bot](https://github.com/ymmmmmmmm/getgrass_bot) | y |
 
 ## 工具类脚本
 | 开源项目名称  | 项目链接 | 社区贡献者 |
@@ -36,9 +36,9 @@
 | dc机器人(py版本) | [dc机器人 （聊天、领水等）](https://github.com/l333308/discord_bot) | SevAn° |
 
 ## 说明
-本项目会及时更新实用的web3开源项目，紧跟趋势潮流，如有错误，实属正常，请联系 wechat：riskpill 或者提PR修改。
+本项目会及时更新实用的web3开源项目，紧跟市场趋势，如有错误，实属正常，请联系 wechat：riskpill 修改 或 提PR修改。
 ## 注意
-使用以上脚本需要自己承担风险（Take Your Own Risk），如果造成资产损失与开源贡献者和本人无关（DYOR）。
+使用以上脚本需要自己承担风险（Take Your Own Risk），如果造成资产损失与开源贡献者和本人无关（Do Your Own Research）。
 ## 贡献
-有技术大佬想开源自己脚本的，欢迎提PR，修改时按照时间顺序向后添加。
+有技术大佬想开源自己脚本的，欢迎提PR，添加时按照时间顺序向后添加。
 经过审核可以进入web3开源共建社区群（目前群内有几十位技术大佬）。
