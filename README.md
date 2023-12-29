@@ -4,7 +4,7 @@
 | 开源项目名称  | 项目链接 | 社区贡献者 |
 | :---------- | :------ | :------: |
 | 挖矿atomicals 上的代币工具-官方版本| [atomicals/_atomicals-js_](https://github.com/atomicals/atomicals-js) | atomicals |
-| atomicals-js 多进程版本 | [atomicals/_atomicals-js-boost_](https://github.com/wkler/atomicals-js-boost) | 0xRedPill 童大托 |
+| atomicals-js 多进程版本 | [atomicals/_atomicals-js-boost_](https://github.com/wkler/atomicals-js-boost) | 0xRedPill 童大托 Panda 0xBalance |
 | EVM全链铭文批量_mint_脚本 | [zyxtoworld/batch_Mint_EvmInscriptions](https://github.com/zyxtoworld/batchMintEvmInscriptions) | zyxtoworld |
 | batchMintCias | [zyxtoworld/batchMintCias](https://github.com/zyxtoworld/batchMintCias) | zyxtoworld |
 | pow-erc20 Rust版本 | [pow-erc20](https://github.com/nishuzumi/pow-erc20) | BOX |
