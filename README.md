@@ -25,9 +25,6 @@
 | inscription EOSS EOS EVM chain | [bangban6/eos_evm_eoss-_mint_-](https://github.com/bangban6/eos_evm_eoss-mint-) | bangban6 |
 | celestia Batch Query | [celestiaBatchQuery](https://github.com/tcitds1/celestiaBatchQuery) | tcitds1 |
 | celestia铭文mint cias | [cias](https://github.com/zefzhou/cias) | zefzhou44 |
-| Python JSON-RPC batch mint | [BatchTx](https://github.com/cradle0fFilth/BatchTx) | null |
-| Shell Script for checking atomicals NFT available | [Atomicals NFT for checking NFT available](https://github.com/cradle0fFilth/MintAtomicalsNFT) | null |
-| 解码比特币原始交易数据 | [decode_bitcoinRawTx](https://github.com/cradle0fFilth/decode_bitcoinRawTx) | null |
 | getgrass 挂机程序 代理功能 替代插件 | [getgrass-bot](https://github.com/ymmmmmmmm/getgrass_bot) | y |
 
 
